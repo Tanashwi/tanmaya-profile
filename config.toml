@@ -21,5 +21,5 @@ disableKinds = ["taxonomy", "term"]
   unsafe = true
 
 [params]
-  keywords = "tanmayathopate,tanmaya,walsh,software,engineer,developer,profile"
+  keywords = "tanmayathopate,tanmaya,software,engineer,developer,profile"
   robots = "index,follow"
