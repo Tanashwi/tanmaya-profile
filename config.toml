@@ -1,0 +1,25 @@
+theme = "lynx"
+title = "Tanmaya's Profile"
+baseUrl = "https://tanashwi.github.io"
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+  name = "Tanmaya Thopate"
+  image = "profile.jpg"
+  alternative = "Tanmaya Thopate | WebAPI developer | Software Engineer | Leader | Learner"
+  links = [    
+    { github = "https://github.com/tanashwi" },
+    { linkedin = "https://www.linkedin.com/tanmayathopate" }
+  ]
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  keywords = "tanmayathopate,tanmaya,walsh,software,engineer,developer,profile"
+  robots = "index,follow"
