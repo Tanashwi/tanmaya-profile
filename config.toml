@@ -1,6 +1,6 @@
 theme = "lynx"
 title = "Tanmaya's Profile"
-baseUrl = "https://github.com/tanashwi"
+baseUrl = "https://tanashwi.github.io/tanmaya-profile"
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
